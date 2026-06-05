@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490729777504",
+    "project_id": "easyrent313",
+    "storage_bucket": "easyrent313.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490729777504:android:3da4cda51d48bd84875605",
+        "android_client_info": {
+          "package_name": "easyrent.in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGxaM8znNBBgD3OMaKN0YYmSHC_jPKydM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
